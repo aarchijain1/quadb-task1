@@ -8,23 +8,23 @@ const projects = [
   {
     id: 1,
     name: "Budget Oversight",
-    technologies: "MERN Stack",
+    technologies: "ReactJs, TailwindCSS, MongoDB, ExpressJs, NodeJs",
     image: employeeMSImage,
-    github: "",
+    github: "https://github.com/aarchijain1/Budget_Oversight",
   },
   {
     id: 2,
     name: "News Daily",
-    technologies: "MERN Stack",
+    technologies: "ReactJs, Bootstrap",
     image: bookMSImage,
-    github: "",
+    github: "https://github.com/aarchijain1/News-Daily",
   },
   {
     id: 3,
     name: "Portfolio",
-    technologies: "MERN Stack",
+    technologies: "ReactJs, TailwindCSS",
     image: portfolioImage,
-    github: "",
+    github: "https://github.com/aarchijain1/quadb-task1",
   },
 ];
 
